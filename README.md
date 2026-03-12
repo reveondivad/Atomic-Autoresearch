@@ -1,6 +1,3 @@
-# Atomic-Autoresearch
-Porting Karpathy autoresearch frame to browser ready vanilla JavaScript
-
 # Atomic GPT v3 — Autoresearch
 
 A complete GPT transformer with autonomous hyperparameter optimization in a single 42 KB HTML file. Zero dependencies. Open it in a browser and click Run.
