@@ -4,7 +4,7 @@ A complete GPT transformer with autonomous hyperparameter optimization in a sing
 
 Built on [Karpathy's atomic GPT](https://gist.github.com/karpathy/) (scalar autograd, no libraries) and inspired by [autoresearch](https://github.com/karpathy/autoresearch) (autonomous experiment loop on H100). This project ports both ideas to vanilla JavaScript that runs in any modern browser.
 
-![screenshot](screenshot.png)
+[![Atomic GPT v3 Screenshot](thumbnail.png)](screenshot.png)
 
 ## What It Does
 
